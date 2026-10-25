@@ -2,7 +2,7 @@
 
 Jogo de corrida infinita em Python com pygame: o urso corre e você precisa pular os troncos. Quanto mais pontos, mais rápido o jogo fica.
 
-![Captura de tela do jogo](captura.png)
+![Captura de tela do jogo](captura.PNG)
 
 ## Como jogar
 
