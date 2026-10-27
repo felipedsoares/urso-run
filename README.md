@@ -4,6 +4,12 @@ Jogo de corrida infinita em Python com pygame: o urso corre e você precisa pula
 
 ![Captura de tela do jogo](captura.PNG)
 
+## Jogue agora
+
+[Jogar no navegador (itch.io)](https://felipedsoares.itch.io/urso-run)
+
+Funciona no computador e no celular, sem baixar nada.
+
 ## Como jogar
 
 - **Espaço**: começar, pular e reiniciar depois do game over.
@@ -13,6 +19,8 @@ Jogo de corrida infinita em Python com pygame: o urso corre e você precisa pula
 ## Baixar e jogar (Windows)
 
 Baixe o `UrsoRun.exe` na página de [Releases](../../releases). O Windows pode exibir um aviso de arquivo desconhecido, algo comum em executáveis feitos com PyInstaller. O código é aberto e está neste repositório.
+
+A versão web é uma adaptação do jogo para o navegador, com controle por toque.
 
 ## Rodar pelo código
 
